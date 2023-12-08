@@ -85,6 +85,14 @@
             margin: auto;
         }
 
+        .contenta {
+            box-sizing: border-box;
+            min-width: 700px;
+            max-width: 830px;
+            position: relative;
+            margin: auto;
+        }
+
         .tweet-container {
             min-width: 30px;
             min-height: 100px;
