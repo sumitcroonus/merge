@@ -90,6 +90,7 @@
             min-width: 700px;
             max-width: 830px;
             position: relative;
+            margin: auto;
         }
 
         .tweet-container {
